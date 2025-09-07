@@ -1,4 +1,4 @@
-# talalikhwan-public  
+<img width="305" height="41" alt="image" src="https://github.com/user-attachments/assets/dc9dfaaa-01df-48a4-bb2b-73698b7663f3" /># talalikhwan-public  
 
 Public profile of **Talal Ikhwan**, AI advisor and innovation leader based in Singapore.  
 Focused on **Generative AI, Retrieval-Augmented Generation (RAG), knowledge assistants, agentic AI, climate resilience, and responsible AI**.  
@@ -42,7 +42,7 @@ He specializes in:
 ---
 
 ## 🔗 Connect  
-- [LinkedIn](www.linkedin.com/in/talalikhwan)
+- [LinkedIn](https://www.linkedin.com/in/talalikhwan)
 - [Medium](https://medium.com/@talalikhwan)
 
 ---
