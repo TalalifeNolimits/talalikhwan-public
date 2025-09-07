@@ -37,9 +37,13 @@ He specializes in:
 ## 🌍 Recognition  
 - Speaker, **Asian Development Bank East Asia Forum 2024** (AI governance & global best practices)  
 - Featured in **MoneyFM Morning Show** (AI & innovation leadership)  
-- Highlighted in **KPMG Be in Front Campaign** (enterprise AI adoption and innovation)  
+- Highlighted in **KPMG Be in Front Campaign** (enterprise AI adoption and innovation)
 
----
+##  Personal Challenge
+
+Participated in the **Polar Circle Marathon** in Greenland—an extreme marathon run across ice and tundra at sub-zero temperatures. Completing one of the most challenging marathon events in the world.  
+Details: [2013 Polar Circle Marathon Results](https://polar-circle-marathon.com/themes/albatros/results/2013-results.html)
+
 
 ## 🔗 Connect  
 - [LinkedIn](https://www.linkedin.com/in/talalikhwan)
