@@ -42,8 +42,8 @@ He specializes in:
 ---
 
 ## 🔗 Connect  
-- [LinkedIn](https://www.linkedin.com/in/talalikhwan86)  
-- [Medium](https://medium.com/@talalikhwan86)  
+- [LinkedIn](www.linkedin.com/in/talal-ikhwan-a464b847)
+- [Medium](https://medium.com/@talalikhwan)
 
 ---
 
